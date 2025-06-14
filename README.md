@@ -18,3 +18,8 @@ Plot the following charts using different y-axes for each data set:
 Do not plot grid lines
 Run the script to plot the charts
 ```
+![](Screenshot 2025-06-14 124344.png)
+![](Screenshot 2025-06-14 124401.png)
+![](Screenshot 2025-06-14 124413.png)
+![](Screenshot 2025-06-14 124424.png)
+![](Screenshot 2025-06-14 124439.png)
