@@ -1,7 +1,7 @@
 # EdgeTX Log Charts
 Python script to generate charts from EdgeTX log data.
 
-First you'll need to enable telemetry logging in EdgeTX on your transmitter. To run it, plug in your EdgteTX transmitter, navigate to LOGS and pull the latest flight log. Update the "analyse logs.py" script to refer to this file's location and then run the script using Python.
+First you'll need to [enable telemetry logging in EdgeTX on your transmitter](https://oscarliang.com/log-telemetry/). To run it, plug in your EdgteTX transmitter, navigate to LOGS and pull the latest flight log. Update the "analyse logs.py" script to refer to this file's location and then run the script using Python.
 
 My quad uses dual ELRS antennas and a GPS, so the script assumes those columns will be present. If you don't have those the script may break but it should be easy to debug (perhaps using ChatGPT...).
 
