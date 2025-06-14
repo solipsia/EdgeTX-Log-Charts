@@ -1,4 +1,4 @@
-# EdgeTX-Log-Charts
+# EdgeTX Log Charts
 Python script to generate charts from EdgeTX log data.
 
 To use it, plug in your EdgteTX transmitter, navigate to LOGS and pull the latest flight log. Update the Python script to refer to this file's location.
